@@ -1,4 +1,5 @@
 📊 Data Analytics Capstone Project
+
 🎯 Problem Statement
 
 The company wants to understand how sales are changing over time.
@@ -22,6 +23,7 @@ Analyze sales trends and identify periods of growth or decline.
 - Side by side bar chart of Customer Segment/Date vs Units sold
 ---
 🔍 Insights
+
 1.Dominant Category: The 'Sports' category is the leading contributor to total revenue.
 
 2.High-Value Segment: The 'Regular' customer segment shows the highest engagement/sales volume.
@@ -30,6 +32,7 @@ Analyze sales trends and identify periods of growth or decline.
 
 ---
 💡 Recommendations
+
 1.Inventory Optimization: Increase stock levels for 'Sports' ahead of peak periods identified in the trend chart.
 
 2.Loyalty Programs: Develop exclusive offers for the 'Occasional' segment to maximize lifetime value.
