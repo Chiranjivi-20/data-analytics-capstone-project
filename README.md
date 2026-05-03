@@ -24,14 +24,21 @@ decline.
 ---
 🔍 Insights
 1.Dominant Category: The 'Sports' category is the leading contributor to total revenue.
+
 2.High-Value Segment: The 'Regular' customer segment shows the highest engagement/sales volume.
+
 3.Marketing Correlation: There is a observable relationship between marketing spend and units sold, suggesting that targeted campaigns drive volume.
+
 ---
 💡 Recommendations
 1.Inventory Optimization: Increase stock levels for 'Sports' ahead of peak periods identified in the trend chart.
+
 2.Loyalty Programs: Develop exclusive offers for the 'Occasional' segment to maximize lifetime value.
+
 3.Discount Strategy: Use deep discounts strategically during low-sales months to clear inventory and maintain cash flow.
+
 4.Marketing Reallocation: Reallocate budget from underperforming categories to those with higher  Return on Investment  shown in the analysis.
+
 ---
 🛠 Tools Used
 -  Tableau for Dashboards
