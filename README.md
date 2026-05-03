@@ -1,9 +1,8 @@
 📊 Data Analytics Capstone Project
 🎯 Problem Statement
-The company wants to understand how sales are
-changing over time.
-Analyze sales trends and identify periods of growth or
-decline.
+
+The company wants to understand how sales are changing over time.
+Analyze sales trends and identify periods of growth or decline.
 ---
 📁 Ecommerce Sales Prediction Dataset
 - Source: Kaggle 
